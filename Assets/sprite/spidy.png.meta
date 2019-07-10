@@ -1,0 +1,2078 @@
+fileFormatVersion: 2
+guid: a83eb46b32390154183f9b3ececea8f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3954531102023656450
+    second: spidy_0
+  - first:
+      213: 7528915791910941157
+    second: spidy_1
+  - first:
+      213: 805477661168256695
+    second: spidy_2
+  - first:
+      213: 3339832504839046141
+    second: spidy_3
+  - first:
+      213: -6608312190026131310
+    second: spidy_4
+  - first:
+      213: -9201107903131101835
+    second: spidy_5
+  - first:
+      213: 6689747485960128864
+    second: spidy_6
+  - first:
+      213: 3444780583350810325
+    second: spidy_7
+  - first:
+      213: 5064607027178338389
+    second: spidy_8
+  - first:
+      213: 7110312570014573316
+    second: spidy_9
+  - first:
+      213: -8667114757144384324
+    second: spidy_10
+  - first:
+      213: 1458767393171237504
+    second: spidy_11
+  - first:
+      213: -8415571433631009721
+    second: spidy_12
+  - first:
+      213: -7258104146526865949
+    second: spidy_13
+  - first:
+      213: 8878175801366543278
+    second: spidy_14
+  - first:
+      213: -2646663686976135098
+    second: spidy_15
+  - first:
+      213: 6197425970968763982
+    second: spidy_16
+  - first:
+      213: 1982992763875496393
+    second: spidy_17
+  - first:
+      213: 3958790897355931098
+    second: spidy_18
+  - first:
+      213: -506155343168585609
+    second: spidy_19
+  - first:
+      213: -7128261082339609617
+    second: spidy_20
+  - first:
+      213: 6170936622323870375
+    second: spidy_21
+  - first:
+      213: -9026062448482364743
+    second: spidy_22
+  - first:
+      213: 1357100926926844637
+    second: spidy_23
+  - first:
+      213: 1698086738156486018
+    second: spidy_24
+  - first:
+      213: -5914489131657306434
+    second: spidy_25
+  - first:
+      213: -1505603604972319405
+    second: spidy_26
+  - first:
+      213: -4603257031745553559
+    second: spidy_27
+  - first:
+      213: -2644035148446569023
+    second: spidy_28
+  - first:
+      213: -311118267114918735
+    second: spidy_29
+  - first:
+      213: 8414517718628235138
+    second: spidy_30
+  - first:
+      213: -4592845564339256094
+    second: spidy_31
+  - first:
+      213: -403784185621314690
+    second: spidy_32
+  - first:
+      213: -3278330375011560720
+    second: spidy_33
+  - first:
+      213: -7365356551218833379
+    second: spidy_34
+  - first:
+      213: -4133982752212900467
+    second: spidy_35
+  - first:
+      213: -5363913982474943654
+    second: spidy_36
+  - first:
+      213: -410684871540783398
+    second: spidy_37
+  - first:
+      213: -764729870907903592
+    second: spidy_38
+  - first:
+      213: 5643879998470763785
+    second: spidy_39
+  - first:
+      213: 3400380179498397364
+    second: spidy_40
+  - first:
+      213: 4069200376889533235
+    second: spidy_41
+  - first:
+      213: 2991823707145611811
+    second: spidy_42
+  - first:
+      213: 1795914990674583766
+    second: spidy_43
+  - first:
+      213: -7368364302424377586
+    second: spidy_44
+  - first:
+      213: 6153067374234869176
+    second: spidy_45
+  - first:
+      213: -6129385873800311113
+    second: spidy_46
+  - first:
+      213: 3501868315367354235
+    second: spidy_47
+  - first:
+      213: -7724163762677018192
+    second: spidy_48
+  - first:
+      213: -7246893541885118796
+    second: spidy_49
+  - first:
+      213: 7460433743798930631
+    second: spidy_50
+  - first:
+      213: 5006447999610943048
+    second: spidy_51
+  - first:
+      213: 3767131935854459449
+    second: spidy_52
+  - first:
+      213: -8468292012651134157
+    second: spidy_53
+  - first:
+      213: -49421107870321932
+    second: spidy_54
+  - first:
+      213: 5027647370849476042
+    second: spidy_55
+  - first:
+      213: -5281941176067672702
+    second: spidy_56
+  - first:
+      213: -6783680796050652060
+    second: spidy_57
+  - first:
+      213: 5209511973202133059
+    second: spidy_58
+  - first:
+      213: -3540717770279060938
+    second: spidy_59
+  - first:
+      213: -3243762810856466736
+    second: spidy_60
+  - first:
+      213: 7720382445223445067
+    second: spidy_61
+  - first:
+      213: -7124155948845832957
+    second: spidy_62
+  - first:
+      213: 4715562577897529926
+    second: spidy_63
+  - first:
+      213: 5449862493421372278
+    second: spidy_64
+  - first:
+      213: 4071229265052268558
+    second: spidy_65
+  - first:
+      213: -705193891599652548
+    second: spidy_66
+  - first:
+      213: -4117098369155312886
+    second: spidy_67
+  - first:
+      213: -5930280492551929488
+    second: spidy_68
+  - first:
+      213: 1854230354708633731
+    second: spidy_69
+  - first:
+      213: 5096617707948857359
+    second: spidy_70
+  - first:
+      213: 7785868236998912433
+    second: spidy_71
+  - first:
+      213: -6781748867878331223
+    second: spidy_72
+  - first:
+      213: 5106130097627179765
+    second: spidy_73
+  - first:
+      213: 7525155391867267608
+    second: spidy_74
+  - first:
+      213: -2364067148930043230
+    second: spidy_75
+  - first:
+      213: 8765254692794196554
+    second: spidy_76
+  - first:
+      213: 8911207227547593541
+    second: spidy_77
+  - first:
+      213: -7194230256186941427
+    second: spidy_78
+  - first:
+      213: -747982230436646596
+    second: spidy_79
+  - first:
+      213: -5029658270622156500
+    second: spidy_80
+  - first:
+      213: -1913053972998427253
+    second: spidy_81
+  - first:
+      213: 8331652376597179110
+    second: spidy_82
+  - first:
+      213: 8262286288674107890
+    second: spidy_83
+  - first:
+      213: 575236003314175124
+    second: spidy_84
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spidy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8018199163470a141b3150315a9ad87a
+      internalID: 3954531102023656450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1984
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387db10279cc2074fb498a1c7db79e35
+      internalID: 7528915791910941157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1984
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b18b6b495d09b42847b73f4f76fb4a
+      internalID: 805477661168256695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1984
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70550efa321c514b9d53add157d11a3
+      internalID: 3339832504839046141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_4
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1984
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34b23c6f45719a47b6963c6ed9836d1
+      internalID: -6608312190026131310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb103b9929328e4ea48b5cf1d35636e
+      internalID: -9201107903131101835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1860
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6f5631ed7b2594d8103434fb10aa91
+      internalID: 6689747485960128864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1860
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b85c9f82798741b36ad20d3565180
+      internalID: 3444780583350810325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_8
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1860
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebce6bf3309a0742b3e1fb8ffaf46c0
+      internalID: 5064607027178338389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_9
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1860
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2820a37e9518844b4da0bafbeb72e2
+      internalID: 7110312570014573316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1736
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da5bb24e53dddf4a8406366db1a4e32
+      internalID: -8667114757144384324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1736
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396fa539d0c38e04794c51963a288500
+      internalID: 1458767393171237504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1736
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef7e10ea4f78754b89f08641f77bc31
+      internalID: -8415571433631009721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_13
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1736
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0399e7bc9f1c534d960557daa230215
+      internalID: -7258104146526865949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_14
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1736
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ddda5213b5ca4d9aabbb452b60a0c
+      internalID: 8878175801366543278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1612
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06bcf4d3f8efc643b565b1ab3d23a9a
+      internalID: -2646663686976135098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1612
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a289b315c51166f40a2a4e78489d2c84
+      internalID: 6197425970968763982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1612
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7052a9f3b0112014e897b90784a02a7a
+      internalID: 1982992763875496393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_18
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1612
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1294f2c74e4e0f45ab26ab444d41af4
+      internalID: 3958790897355931098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_19
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1612
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b83784146d1a2c44bdb34870f2a6487
+      internalID: -506155343168585609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6760ab7952f7b47942174591ad3031
+      internalID: -7128261082339609617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1488
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d45864de8bc444b0e940c576f2f2d
+      internalID: 6170936622323870375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_22
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1488
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e7a9586f3a3ea4988b857077a5d0e2
+      internalID: -9026062448482364743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_23
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1488
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a5bb260589e9d418f4fab5b61f8f16
+      internalID: 1357100926926844637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_24
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1488
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef49a0791279dc42ab04f335c2188fa
+      internalID: 1698086738156486018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d8869803d13b6449604079730f29c6
+      internalID: -5914489131657306434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1364
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1e9f81da30488469acebade4c5718e
+      internalID: -1505603604972319405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_27
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1364
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c1d7301d74d1e4b863356bd180d6df
+      internalID: -4603257031745553559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_28
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1364
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25691e6855882d148a287d0e0838085f
+      internalID: -2644035148446569023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_29
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1364
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fe79104945c2949a1bc1766b282940
+      internalID: -311118267114918735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d1d6a6a13472745aed85c4715c4a94
+      internalID: 8414517718628235138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1240
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a7036e66971e341bcfc831496ca405
+      internalID: -4592845564339256094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1240
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630992852e75ca14d97641b6f4bf092b
+      internalID: -403784185621314690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_33
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1240
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc90242b501724449830bc30dbab91d5
+      internalID: -3278330375011560720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_34
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1240
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e0e8aedfbc9054188fc1fda988ca76
+      internalID: -7365356551218833379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc4750a689c6b84b807cfbe25659016
+      internalID: -4133982752212900467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1116
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a72a6b335d1bc24392164d73b55cb72
+      internalID: -5363913982474943654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_37
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1116
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36870380fb97ec741808de5608c2a1c6
+      internalID: -410684871540783398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_38
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1116
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585af55c01baf7249bd089734b647147
+      internalID: -764729870907903592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_39
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1116
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe7f52806d89d4e849841563d7e30e
+      internalID: 5643879998470763785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcfaf66f82ed2b4c8dc59aceb6cc9cc
+      internalID: 3400380179498397364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_41
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 992
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9127be90995ab4690cb1ef865f5603
+      internalID: 4069200376889533235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_42
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 992
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc9066ce58a8ac428b15160c24168a4
+      internalID: 2991823707145611811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_43
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 992
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b7d05233481e945a2c33a89bfd6f6b
+      internalID: 1795914990674583766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_44
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 992
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5a19b4f14a3c3418b149fb720cda3a
+      internalID: -7368364302424377586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0344998774a1f4a9b7c17568ac363b
+      internalID: 6153067374234869176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_46
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 868
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3bd4abe75531549aaba7fd71ab9bb4
+      internalID: -6129385873800311113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_47
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 868
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee357406e5a0538479fe881817a492f7
+      internalID: 3501868315367354235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_48
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 868
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc76a2108698464b86148c04cb34466
+      internalID: -7724163762677018192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_49
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 868
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08df142d1b79da041af7fdc6af90b16e
+      internalID: -7246893541885118796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0b2bea267d8eb48832d411f5ff4876
+      internalID: 7460433743798930631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 744
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba186746a1d0c5d4db45c2320568923b
+      internalID: 5006447999610943048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_52
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 744
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4f7eecca20d3247906beb51693af18
+      internalID: 3767131935854459449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_53
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 744
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72c542e66f102844a4f381aa8701bd3
+      internalID: -8468292012651134157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_54
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 744
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf7cf6904b66e4a99ef99fc8512716
+      internalID: -49421107870321932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6387bcc7900f2be4fa75507697298b6d
+      internalID: 5027647370849476042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_56
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 620
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccb36a3c5f2a65429f1c50d2743d71f
+      internalID: -5281941176067672702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_57
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 620
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75a565e093658549b199962b43ec7a7
+      internalID: -6783680796050652060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_58
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 620
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd4a8b07b18694fb7d5deb4eeacb87
+      internalID: 5209511973202133059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_59
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 620
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5689280c4d2944a76a9112b7ac898
+      internalID: -3540717770279060938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d272de1b803aad4c80be255263fcc4f
+      internalID: -3243762810856466736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_61
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 496
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c039bbac3343d354aa3bad93450be0f5
+      internalID: 7720382445223445067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_62
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 496
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5289c8c23ead98341977c3cc1a74aaea
+      internalID: -7124155948845832957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_63
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 496
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78935d89940ba7e4d8b04a695b34fc69
+      internalID: 4715562577897529926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_64
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 496
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ff325b7edbee47b46dfb1dccb76d5
+      internalID: 5449862493421372278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4c7b7ab098e3c45b34c8a53ab656b9
+      internalID: 4071229265052268558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_66
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 372
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c8e01e4b5d444aa0b3db54648e6ff
+      internalID: -705193891599652548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_67
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 372
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffcbef50b686e64181ed968c374b181
+      internalID: -4117098369155312886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_68
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 372
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c943fa0a8709488971b87b43a2799
+      internalID: -5930280492551929488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_69
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 372
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2154c3bc7275d2c46a87603ab8da4171
+      internalID: 1854230354708633731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391a037a8a540c74eb98ce780edf9341
+      internalID: 5096617707948857359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_71
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 248
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d3486c8a0e937488970f43a8fbd95c
+      internalID: 7785868236998912433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_72
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 248
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c992aee76de5b1428d1b499d9a6eb30
+      internalID: -6781748867878331223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_73
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 248
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1448595d7bea2fe4fb208b004f9f33a7
+      internalID: 5106130097627179765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_74
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 248
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e7c2ae0c00f364b8e8956494990a9f
+      internalID: 7525155391867267608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd804b9b1ee8344a592dabf074273b
+      internalID: -2364067148930043230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_76
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 124
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1e85408917e44c915f75c5b1a5fb7
+      internalID: 8765254692794196554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_77
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 124
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26ffb655c6e52041b465978c7165d9c
+      internalID: 8911207227547593541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_78
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 124
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4446885e6535eb845bad6ff4809e4bde
+      internalID: -7194230256186941427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_79
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 124
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273ed9bf20fdd3c4cb9333098ce03be3
+      internalID: -747982230436646596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f8abf7c73a7c5459947976f05aa18a
+      internalID: -5029658270622156500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidy_81
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 241
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f988a99bf3c879a48aa37b7c1a973796
+      internalID: -1913053972998427253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e68e5741cfc86854d8587e4f27b674ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

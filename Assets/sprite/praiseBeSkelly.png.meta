@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: 7b1b852cb7efa1f4da95d465447b9703
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1798780064824741904
+    second: praiseBeSkelly_0
+  - first:
+      213: 8440751259037491681
+    second: praiseBeSkelly_1
+  - first:
+      213: -8770182977598346102
+    second: praiseBeSkelly_2
+  - first:
+      213: 9008736584626606352
+    second: praiseBeSkelly_3
+  - first:
+      213: -8770587014975390743
+    second: praiseBeSkelly_4
+  - first:
+      213: -6835394282097414386
+    second: praiseBeSkelly_5
+  - first:
+      213: -6944424478604062508
+    second: praiseBeSkelly_6
+  - first:
+      213: 3694632811175756749
+    second: praiseBeSkelly_7
+  - first:
+      213: -139567935858384054
+    second: praiseBeSkelly_8
+  - first:
+      213: -11891464727880716
+    second: praiseBeSkelly_9
+  - first:
+      213: -5901016670459043087
+    second: praiseBeSkelly_10
+  - first:
+      213: -6881788617257470205
+    second: praiseBeSkelly_11
+  - first:
+      213: -3507266324548167136
+    second: praiseBeSkelly_12
+  - first:
+      213: 2728159222683316439
+    second: praiseBeSkelly_13
+  - first:
+      213: 4222753714133647278
+    second: praiseBeSkelly_14
+  - first:
+      213: -6419474568417583676
+    second: praiseBeSkelly_15
+  - first:
+      213: -4387079385817666835
+    second: praiseBeSkelly_16
+  - first:
+      213: 151799000198364063
+    second: praiseBeSkelly_17
+  - first:
+      213: -2495774711041506822
+    second: praiseBeSkelly_18
+  - first:
+      213: -5788498110374016476
+    second: praiseBeSkelly_19
+  - first:
+      213: 3418720213759002807
+    second: praiseBeSkelly_20
+  - first:
+      213: -3864575860368098911
+    second: praiseBeSkelly_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: praiseBeSkelly_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 432
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fe6e6e4168b9342b27e52fa4bef7e1
+      internalID: 1798780064824741904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 432
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5c8c6c500cb024e89418734f3a7ea8
+      internalID: 8440751259037491681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 432
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f5be6ca61ac424987ad6ce514906c4
+      internalID: -8770182977598346102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 432
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51027dfbd99c1641aaf60245dc5eddd
+      internalID: 9008736584626606352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 432
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d4be9a7c2a68448366647e8e9aead
+      internalID: -8770587014975390743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 432
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8208313d72a3a6e4d821dfa9d04b6a74
+      internalID: -6835394282097414386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 432
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27e5272ed50bd04d96475c0e5139624
+      internalID: -6944424478604062508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e24d7e9adaff084abc7b913e3068c98
+      internalID: 3694632811175756749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 288
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352e402b3d2cd544e978c39d2be84fa8
+      internalID: -139567935858384054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 288
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dfc6db18ba6234685742ac78f50aad
+      internalID: -11891464727880716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 288
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9ec53f99089fb4eb23512f492ba8b2
+      internalID: -5901016670459043087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 288
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6820015521b36449dd7c21e7f11db8
+      internalID: -6881788617257470205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 288
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79641667c95ce34099c1b7862933280
+      internalID: -3507266324548167136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_13
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 288
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3827cae1654d7e64b98954a378c1e080
+      internalID: 2728159222683316439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc523a5cc841ade41884f283008428ff
+      internalID: 4222753714133647278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a962bb79ef084cb3617f3eca77f61
+      internalID: -6419474568417583676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 144
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac84af756f18f364e8975fbe75794d0f
+      internalID: -4387079385817666835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 144
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600afe1d37437f1448d2553c9471a103
+      internalID: 151799000198364063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 144
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6a978d7b3a9bf40890549b15e94e60
+      internalID: -2495774711041506822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 144
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dc82d91a390cd4bad0d52104c9d952
+      internalID: -5788498110374016476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_20
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 144
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1f4c778cadcfb4b8642b7536e21775
+      internalID: 3418720213759002807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: praiseBeSkelly_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92ac13736620724b9ab995cc13e6248
+      internalID: -3864575860368098911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 930f4def3a6c9244ba5d588902b71771
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
