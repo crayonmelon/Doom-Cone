@@ -16,7 +16,6 @@ public class CrashSound : MonoBehaviour
     {
         
         source = gameObject.AddComponent<AudioSource>();
-        source.spatialBlend = 1;
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -25,9 +24,12 @@ public class CrashSound : MonoBehaviour
         source.pitch = Random.Range(lowPitch, highPitch);
         if (collision.relativeVelocity.magnitude < 10)
             source.PlayOneShot(crashSoft, hitVol);
+                        print("Lowhit")
+
         else
             source.PlayOneShot(crashHard, hitVol);
-           
+                       print("Lowhit")
+
     }
 
 }

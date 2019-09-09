@@ -37,7 +37,7 @@ public class PickUp : MonoBehaviour
             PlayerManager.instance.player.GetComponent<PlayerStats>().IsHolding = false;
 
         //sound
-            float volume = Random.Range(0.3f, .8f);
+            float volume = Random.Range(1f, 2f);
             source.PlayOneShot(throwAway, volume);
         }
     }
@@ -65,4 +65,7 @@ public class PickUp : MonoBehaviour
             source.PlayOneShot(pickUp, volume);
         }
     }
+
+   w
+
 }
